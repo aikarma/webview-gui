@@ -10,7 +10,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/quarton/webview-gui/rpc"
+	"github.com/aikarma/webview-gui/rpc"
 )
 
 var errMissingParams = errors.New("jsonrpc: request body missing params")
