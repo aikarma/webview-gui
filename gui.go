@@ -29,8 +29,8 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/quarton/webview-gui/rpc"
-	"github.com/quarton/webview-gui/rpc/jsonrpc"
+	"github.com/aikarma/webview-gui/rpc"
+	"github.com/aikarma/webview-gui/rpc/jsonrpc"
 )
 
 func init() {
